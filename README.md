@@ -36,7 +36,7 @@
 
 如果你有任何问题或建议，欢迎通过以下方式联系我：  
 
-- **邮箱**: [1062623897l@qq.com](mailto:1062623897@qq.com)  
+- **邮箱**: [1062623897@qq.com](mailto:1062623897@qq.com)  
 - **GitHub**: [flag-y](https://github.com/flag-y)  
 
 ---
